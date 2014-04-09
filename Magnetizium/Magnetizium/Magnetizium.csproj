@@ -38,6 +38,7 @@
     <Compile Include="Game1.cs" />
     <Compile Include="GameFinishedScreen.cs" />
     <Compile Include="GameScreen.cs" />
+    <Compile Include="GameSettings.cs" />
     <Compile Include="GameWorld.cs" />
     <Compile Include="Magnet.cs" />
     <Compile Include="MenuScreen.cs" />

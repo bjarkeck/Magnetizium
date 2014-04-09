@@ -1,0 +1,10 @@
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\obj\x86\Debug\Magnetizium.csprojResolveAssemblyReference.cache
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\Magnetizium.exe
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\Magnetizium.pdb
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\obj\x86\Debug\Magnetizium.exe
+C:\Users\Fesgen\Documents\GitHub\Magnetizium\Magnetizium\Magnetizium\obj\x86\Debug\Magnetizium.pdb
