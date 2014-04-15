@@ -22,6 +22,12 @@ namespace Magnetizium
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            graphics.IsFullScreen = true;
+            graphics.PreferredBackBufferWidth = (int)(GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width);
+            graphics.PreferredBackBufferHeight = (int)(GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height);
+            graphics.ApplyChanges();
+
             Screen.Content = Content;
         }
 
@@ -60,7 +66,6 @@ namespace Magnetizium
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             ScreenManager.Draw(spriteBatch);
-            // TODO: Add your drawing code here
 
             base.Draw(gameTime);
         }
